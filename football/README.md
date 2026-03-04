@@ -1,4 +1,4 @@
-# ⚽ FIFA World Cup Data Analysis & Visualization (1930–2022)
+# FIFA World Cup Data Analysis & Visualization (1930–2022)
 
 This project performs Exploratory Data Analysis (EDA) on historical FIFA World Cup data organized by **FIFA** (Fédération Internationale de Football Association).  
 
@@ -6,7 +6,7 @@ It analyzes match results, world rankings, and tournament-level data from 1930 t
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 The project uses three main datasets:
 
@@ -30,7 +30,7 @@ The project uses three main datasets:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -41,7 +41,7 @@ The project uses three main datasets:
 
 ---
 
-## 📊 Key Analysis Performed
+## Key Analysis Performed
 
 - Dataset exploration (.info(), .shape(), column access)
 - Data cleaning & preprocessing
@@ -53,12 +53,13 @@ The project uses three main datasets:
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 - Bar Charts
 - Line Charts
 - Heatmaps
 - Interactive Graphs
 - Comparative Team Analysis
+
 
 ---
